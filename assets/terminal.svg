@@ -1,0 +1,362 @@
+<svg class="rich-terminal" viewBox="0 0 1385 1611.6" xmlns="http://www.w3.org/2000/svg">
+    <!-- Generated with Rich https://www.textualize.io -->
+    <style>
+
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Regular"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Regular.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Regular.woff") format("woff");
+        font-style: normal;
+        font-weight: 400;
+    }
+    @font-face {
+        font-family: "Fira Code";
+        src: local("FiraCode-Bold"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff2/FiraCode-Bold.woff2") format("woff2"),
+                url("https://cdnjs.cloudflare.com/ajax/libs/firacode/6.2.0/woff/FiraCode-Bold.woff") format("woff");
+        font-style: bold;
+        font-weight: 700;
+    }
+
+    .terminal-1147335412-matrix {
+        font-family: Fira Code, monospace;
+        font-size: 20px;
+        line-height: 24.4px;
+        font-variant-east-asian: full-width;
+    }
+
+    .terminal-1147335412-title {
+        font-size: 18px;
+        font-weight: bold;
+        font-family: arial;
+    }
+
+    .terminal-1147335412-r1 { fill: #c5c8c6;font-weight: bold }
+.terminal-1147335412-r2 { fill: #c5c8c6 }
+.terminal-1147335412-r3 { fill: #7cf0b6 }
+.terminal-1147335412-r4 { fill: #7fefb3 }
+.terminal-1147335412-r5 { fill: #82edb1 }
+.terminal-1147335412-r6 { fill: #84ecae }
+.terminal-1147335412-r7 { fill: #87ebac }
+.terminal-1147335412-r8 { fill: #8aeaa9 }
+.terminal-1147335412-r9 { fill: #8de8a7 }
+.terminal-1147335412-r10 { fill: #90e7a4 }
+.terminal-1147335412-r11 { fill: #93e6a2 }
+.terminal-1147335412-r12 { fill: #95e49f }
+.terminal-1147335412-r13 { fill: #98e39d }
+.terminal-1147335412-r14 { fill: #9be29a }
+.terminal-1147335412-r15 { fill: #9ee198 }
+.terminal-1147335412-r16 { fill: #a1df95 }
+.terminal-1147335412-r17 { fill: #a3de93 }
+.terminal-1147335412-r18 { fill: #a6dd90 }
+.terminal-1147335412-r19 { fill: #a9dc8e }
+.terminal-1147335412-r20 { fill: #acda8b }
+.terminal-1147335412-r21 { fill: #afd989 }
+.terminal-1147335412-r22 { fill: #b1d886 }
+.terminal-1147335412-r23 { fill: #b4d684 }
+.terminal-1147335412-r24 { fill: #b7d581 }
+.terminal-1147335412-r25 { fill: #bad47f }
+.terminal-1147335412-r26 { fill: #bdd37c }
+.terminal-1147335412-r27 { fill: #c0d17a }
+.terminal-1147335412-r28 { fill: #c2d077 }
+.terminal-1147335412-r29 { fill: #c5cf75 }
+.terminal-1147335412-r30 { fill: #c8cd72 }
+.terminal-1147335412-r31 { fill: #cbcc70 }
+.terminal-1147335412-r32 { fill: #cecb6d }
+.terminal-1147335412-r33 { fill: #d0ca6b }
+.terminal-1147335412-r34 { fill: #d3c868 }
+.terminal-1147335412-r35 { fill: #d6c766 }
+.terminal-1147335412-r36 { fill: #d9c663 }
+.terminal-1147335412-r37 { fill: #dcc561 }
+.terminal-1147335412-r38 { fill: #dec35e }
+.terminal-1147335412-r39 { fill: #e1c25c }
+.terminal-1147335412-r40 { fill: #e4c159 }
+.terminal-1147335412-r41 { fill: #e7bf57 }
+.terminal-1147335412-r42 { fill: #eabe54 }
+.terminal-1147335412-r43 { fill: #edbd52 }
+.terminal-1147335412-r44 { fill: #efbc4f }
+.terminal-1147335412-r45 { fill: #f2ba4d }
+.terminal-1147335412-r46 { fill: #f5b94a }
+.terminal-1147335412-r47 { fill: #93a1b5 }
+.terminal-1147335412-r48 { fill: #6ee7a8 }
+.terminal-1147335412-r49 { fill: #3a4a63 }
+.terminal-1147335412-r50 { fill: #ff7a7a }
+.terminal-1147335412-r51 { fill: #ff7a7a;font-weight: bold }
+.terminal-1147335412-r52 { fill: #93a1b5;font-weight: bold }
+.terminal-1147335412-r53 { fill: #f5b94a;font-weight: bold }
+    </style>
+
+    <defs>
+    <clipPath id="terminal-1147335412-clip-terminal">
+      <rect x="0" y="0" width="1365.3999999999999" height="1560.6" />
+    </clipPath>
+    <clipPath id="terminal-1147335412-line-0">
+    <rect x="0" y="1.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-1">
+    <rect x="0" y="25.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-2">
+    <rect x="0" y="50.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-3">
+    <rect x="0" y="74.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-4">
+    <rect x="0" y="99.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-5">
+    <rect x="0" y="123.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-6">
+    <rect x="0" y="147.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-7">
+    <rect x="0" y="172.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-8">
+    <rect x="0" y="196.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-9">
+    <rect x="0" y="221.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-10">
+    <rect x="0" y="245.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-11">
+    <rect x="0" y="269.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-12">
+    <rect x="0" y="294.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-13">
+    <rect x="0" y="318.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-14">
+    <rect x="0" y="343.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-15">
+    <rect x="0" y="367.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-16">
+    <rect x="0" y="391.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-17">
+    <rect x="0" y="416.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-18">
+    <rect x="0" y="440.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-19">
+    <rect x="0" y="465.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-20">
+    <rect x="0" y="489.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-21">
+    <rect x="0" y="513.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-22">
+    <rect x="0" y="538.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-23">
+    <rect x="0" y="562.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-24">
+    <rect x="0" y="587.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-25">
+    <rect x="0" y="611.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-26">
+    <rect x="0" y="635.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-27">
+    <rect x="0" y="660.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-28">
+    <rect x="0" y="684.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-29">
+    <rect x="0" y="709.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-30">
+    <rect x="0" y="733.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-31">
+    <rect x="0" y="757.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-32">
+    <rect x="0" y="782.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-33">
+    <rect x="0" y="806.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-34">
+    <rect x="0" y="831.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-35">
+    <rect x="0" y="855.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-36">
+    <rect x="0" y="879.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-37">
+    <rect x="0" y="904.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-38">
+    <rect x="0" y="928.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-39">
+    <rect x="0" y="953.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-40">
+    <rect x="0" y="977.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-41">
+    <rect x="0" y="1001.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-42">
+    <rect x="0" y="1026.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-43">
+    <rect x="0" y="1050.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-44">
+    <rect x="0" y="1075.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-45">
+    <rect x="0" y="1099.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-46">
+    <rect x="0" y="1123.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-47">
+    <rect x="0" y="1148.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-48">
+    <rect x="0" y="1172.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-49">
+    <rect x="0" y="1197.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-50">
+    <rect x="0" y="1221.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-51">
+    <rect x="0" y="1245.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-52">
+    <rect x="0" y="1270.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-53">
+    <rect x="0" y="1294.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-54">
+    <rect x="0" y="1319.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-55">
+    <rect x="0" y="1343.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-56">
+    <rect x="0" y="1367.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-57">
+    <rect x="0" y="1392.3" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-58">
+    <rect x="0" y="1416.7" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-59">
+    <rect x="0" y="1441.1" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-60">
+    <rect x="0" y="1465.5" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-61">
+    <rect x="0" y="1489.9" width="1366.4" height="24.65"/>
+            </clipPath>
+<clipPath id="terminal-1147335412-line-62">
+    <rect x="0" y="1514.3" width="1366.4" height="24.65"/>
+            </clipPath>
+    </defs>
+
+    <rect fill="#292929" stroke="rgba(255,255,255,0.35)" stroke-width="1" x="1" y="1" width="1383" height="1609.6" rx="8"/><text class="terminal-1147335412-title" fill="#c5c8c6" text-anchor="middle" x="691" y="27">stashcard&#160;demo</text>
+            <g transform="translate(26,22)">
+            <circle cx="0" cy="0" r="7" fill="#ff5f57"/>
+            <circle cx="22" cy="0" r="7" fill="#febc2e"/>
+            <circle cx="44" cy="0" r="7" fill="#28c840"/>
+            </g>
+        
+    <g transform="translate(9, 41)" clip-path="url(#terminal-1147335412-clip-terminal)">
+    
+    <g class="terminal-1147335412-matrix">
+    <text class="terminal-1147335412-r1" x="0" y="20" textLength="195.2" clip-path="url(#terminal-1147335412-line-0)">$&#160;stashcard&#160;demo</text><text class="terminal-1147335412-r2" x="1366.4" y="20" textLength="12.2" clip-path="url(#terminal-1147335412-line-0)">
+</text><text class="terminal-1147335412-r3" x="0" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▄</text><text class="terminal-1147335412-r4" x="12.2" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r5" x="24.4" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r6" x="36.6" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r8" x="61" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r9" x="73.2" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">█</text><text class="terminal-1147335412-r10" x="85.4" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r12" x="109.8" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▄</text><text class="terminal-1147335412-r13" x="122" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r14" x="134.2" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r15" x="146.4" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▄</text><text class="terminal-1147335412-r17" x="170.8" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▄</text><text class="terminal-1147335412-r18" x="183" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r19" x="195.2" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r20" x="207.4" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r22" x="231.8" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">█</text><text class="terminal-1147335412-r25" x="268.4" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">█</text><text class="terminal-1147335412-r27" x="292.8" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▄</text><text class="terminal-1147335412-r28" x="305" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r29" x="317.2" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r30" x="329.4" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r32" x="353.8" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▄</text><text class="terminal-1147335412-r33" x="366" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r34" x="378.2" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r35" x="390.4" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▄</text><text class="terminal-1147335412-r37" x="414.8" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">█</text><text class="terminal-1147335412-r38" x="427" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r39" x="439.2" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r40" x="451.4" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▄</text><text class="terminal-1147335412-r42" x="475.8" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">█</text><text class="terminal-1147335412-r43" x="488" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r44" x="500.2" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▀</text><text class="terminal-1147335412-r45" x="512.4" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">▄</text><text class="terminal-1147335412-r47" x="573.4" y="44.4" textLength="73.2" clip-path="url(#terminal-1147335412-line-1)">v0.1.0</text><text class="terminal-1147335412-r2" x="1366.4" y="44.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-1)">
+</text><text class="terminal-1147335412-r4" x="12.2" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r5" x="24.4" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r6" x="36.6" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▄</text><text class="terminal-1147335412-r9" x="73.2" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r12" x="109.8" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r13" x="122" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r14" x="134.2" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r15" x="146.4" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r18" x="183" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r19" x="195.2" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r20" x="207.4" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▄</text><text class="terminal-1147335412-r22" x="231.8" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r23" x="244" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r24" x="256.2" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r25" x="268.4" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r27" x="292.8" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r32" x="353.8" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r33" x="366" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r34" x="378.2" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r35" x="390.4" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r37" x="414.8" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r38" x="427" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">▀</text><text class="terminal-1147335412-r39" x="439.2" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r42" x="475.8" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r45" x="512.4" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">█</text><text class="terminal-1147335412-r1" x="573.4" y="68.8" textLength="463.6" clip-path="url(#terminal-1147335412-line-2)">value&#160;your&#160;Steam&#160;stash,&#160;print&#160;the&#160;card</text><text class="terminal-1147335412-r2" x="1366.4" y="68.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-2)">
+</text><text class="terminal-1147335412-r3" x="0" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r4" x="12.2" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r5" x="24.4" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r9" x="73.2" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r12" x="109.8" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r15" x="146.4" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r17" x="170.8" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r18" x="183" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r19" x="195.2" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r22" x="231.8" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r25" x="268.4" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r28" x="305" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r29" x="317.2" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r30" x="329.4" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r32" x="353.8" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r35" x="390.4" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r37" x="414.8" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r40" x="451.4" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r42" x="475.8" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r43" x="488" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r44" x="500.2" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">▀</text><text class="terminal-1147335412-r47" x="573.4" y="93.2" textLength="744.2" clip-path="url(#terminal-1147335412-line-3)">not&#160;affiliated&#160;with&#160;Valve&#160;or&#160;Steam&#160;·&#160;prices&#160;are&#160;informational</text><text class="terminal-1147335412-r2" x="1366.4" y="93.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-3)">
+</text><text class="terminal-1147335412-r2" x="1366.4" y="117.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-4)">
+</text><text class="terminal-1147335412-r48" x="0" y="142" textLength="219.6" clip-path="url(#terminal-1147335412-line-5)">✓&#160;Profile:&#160;Kestrel</text><text class="terminal-1147335412-r2" x="1366.4" y="142" textLength="12.2" clip-path="url(#terminal-1147335412-line-5)">
+</text><text class="terminal-1147335412-r48" x="0" y="166.4" textLength="463.6" clip-path="url(#terminal-1147335412-line-6)">✓&#160;Inventory&#160;CS2:&#160;94&#160;items&#160;in&#160;18&#160;stacks</text><text class="terminal-1147335412-r2" x="1366.4" y="166.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-6)">
+</text><text class="terminal-1147335412-r48" x="0" y="190.8" textLength="500.2" clip-path="url(#terminal-1147335412-line-7)">✓&#160;Inventory&#160;Dota&#160;2:&#160;13&#160;items&#160;in&#160;10&#160;stacks</text><text class="terminal-1147335412-r2" x="1366.4" y="190.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-7)">
+</text><text class="terminal-1147335412-r48" x="0" y="215.2" textLength="451.4" clip-path="url(#terminal-1147335412-line-8)">✓&#160;Inventory&#160;TF2:&#160;16&#160;items&#160;in&#160;3&#160;stacks</text><text class="terminal-1147335412-r2" x="1366.4" y="215.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-8)">
+</text><text class="terminal-1147335412-r48" x="0" y="239.6" textLength="512.4" clip-path="url(#terminal-1147335412-line-9)">✓&#160;Inventory&#160;Steam:&#160;3,428&#160;items&#160;in&#160;8&#160;stacks</text><text class="terminal-1147335412-r2" x="1366.4" y="239.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-9)">
+</text><text class="terminal-1147335412-r48" x="0" y="264" textLength="963.8" clip-path="url(#terminal-1147335412-line-10)">✓&#160;Priced:&#160;Steam&#160;0&#160;live/36&#160;cached&#160;·&#160;Skinport&#160;·&#160;Waxpeer&#160;·&#160;Market.CSGO&#160;·&#160;Lis-skins</text><text class="terminal-1147335412-r2" x="1366.4" y="264" textLength="12.2" clip-path="url(#terminal-1147335412-line-10)">
+</text><text class="terminal-1147335412-r2" x="1366.4" y="288.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-11)">
+</text><text class="terminal-1147335412-r1" x="0" y="312.8" textLength="85.4" clip-path="url(#terminal-1147335412-line-12)">Kestrel</text><text class="terminal-1147335412-r47" x="85.4" y="312.8" textLength="463.6" clip-path="url(#terminal-1147335412-line-12)">&#160;&#160;steamcommunity.com/id/stashcard-demo</text><text class="terminal-1147335412-r46" x="549" y="312.8" textLength="646.6" clip-path="url(#terminal-1147335412-line-12)">&#160;&#160;DEMO&#160;DATA&#160;(fictional&#160;profile,&#160;dated&#160;price&#160;snapshot)</text><text class="terminal-1147335412-r2" x="1366.4" y="312.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-12)">
+</text><text class="terminal-1147335412-r2" x="1366.4" y="337.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-13)">
+</text><text class="terminal-1147335412-r1" x="12.2" y="361.6" textLength="73.2" clip-path="url(#terminal-1147335412-line-14)">Game&#160;&#160;</text><text class="terminal-1147335412-r1" x="122" y="361.6" textLength="61" clip-path="url(#terminal-1147335412-line-14)">Items</text><text class="terminal-1147335412-r1" x="219.6" y="361.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-14)">&#160;&#160;&#160;LOWEST</text><text class="terminal-1147335412-r1" x="366" y="361.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-14)">&#160;&#160;&#160;AVG&#160;7d</text><text class="terminal-1147335412-r1" x="512.4" y="361.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-14)">Net&#160;Steam</text><text class="terminal-1147335412-r1" x="658.8" y="361.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-14)">&#160;Net&#160;cash</text><text class="terminal-1147335412-r1" x="805.2" y="361.6" textLength="97.6" clip-path="url(#terminal-1147335412-line-14)">Unpriced</text><text class="terminal-1147335412-r2" x="1366.4" y="361.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-14)">
+</text><text class="terminal-1147335412-r2" x="0" y="386" textLength="915" clip-path="url(#terminal-1147335412-line-15)">&#160;─────────────────────────────────────────────────────────────────────────&#160;</text><text class="terminal-1147335412-r2" x="1366.4" y="386" textLength="12.2" clip-path="url(#terminal-1147335412-line-15)">
+</text><text class="terminal-1147335412-r2" x="12.2" y="410.4" textLength="73.2" clip-path="url(#terminal-1147335412-line-16)">CS2&#160;&#160;&#160;</text><text class="terminal-1147335412-r2" x="122" y="410.4" textLength="61" clip-path="url(#terminal-1147335412-line-16)">&#160;&#160;&#160;92</text><text class="terminal-1147335412-r1" x="219.6" y="410.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-16)">$3,092.72</text><text class="terminal-1147335412-r2" x="366" y="410.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-16)">$2,640.65</text><text class="terminal-1147335412-r2" x="512.4" y="410.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-16)">$2,689.77</text><text class="terminal-1147335412-r2" x="658.8" y="410.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-16)">$2,463.82</text><text class="terminal-1147335412-r2" x="805.2" y="410.4" textLength="97.6" clip-path="url(#terminal-1147335412-line-16)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;0</text><text class="terminal-1147335412-r2" x="1366.4" y="410.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-16)">
+</text><text class="terminal-1147335412-r2" x="12.2" y="434.8" textLength="73.2" clip-path="url(#terminal-1147335412-line-17)">Dota&#160;2</text><text class="terminal-1147335412-r2" x="122" y="434.8" textLength="61" clip-path="url(#terminal-1147335412-line-17)">&#160;&#160;&#160;13</text><text class="terminal-1147335412-r1" x="219.6" y="434.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-17)">&#160;&#160;$645.37</text><text class="terminal-1147335412-r2" x="366" y="434.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-17)">&#160;&#160;$605.21</text><text class="terminal-1147335412-r2" x="512.4" y="434.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-17)">&#160;&#160;$561.30</text><text class="terminal-1147335412-r2" x="658.8" y="434.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-17)">&#160;&#160;$532.67</text><text class="terminal-1147335412-r2" x="805.2" y="434.8" textLength="97.6" clip-path="url(#terminal-1147335412-line-17)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;1</text><text class="terminal-1147335412-r2" x="1366.4" y="434.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-17)">
+</text><text class="terminal-1147335412-r2" x="12.2" y="459.2" textLength="73.2" clip-path="url(#terminal-1147335412-line-18)">TF2&#160;&#160;&#160;</text><text class="terminal-1147335412-r2" x="122" y="459.2" textLength="61" clip-path="url(#terminal-1147335412-line-18)">&#160;&#160;&#160;16</text><text class="terminal-1147335412-r1" x="219.6" y="459.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-18)">&#160;&#160;$300.27</text><text class="terminal-1147335412-r2" x="366" y="459.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-18)">&#160;&#160;$180.64</text><text class="terminal-1147335412-r2" x="512.4" y="459.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-18)">&#160;&#160;$261.15</text><text class="terminal-1147335412-r2" x="658.8" y="459.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-18)">&#160;&#160;$239.79</text><text class="terminal-1147335412-r2" x="805.2" y="459.2" textLength="97.6" clip-path="url(#terminal-1147335412-line-18)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;0</text><text class="terminal-1147335412-r2" x="1366.4" y="459.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-18)">
+</text><text class="terminal-1147335412-r2" x="12.2" y="483.6" textLength="73.2" clip-path="url(#terminal-1147335412-line-19)">Steam&#160;</text><text class="terminal-1147335412-r2" x="122" y="483.6" textLength="61" clip-path="url(#terminal-1147335412-line-19)">&#160;&#160;&#160;16</text><text class="terminal-1147335412-r1" x="219.6" y="483.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-19)">&#160;&#160;&#160;&#160;$5.61</text><text class="terminal-1147335412-r2" x="366" y="483.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-19)">&#160;&#160;&#160;&#160;$5.29</text><text class="terminal-1147335412-r2" x="512.4" y="483.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-19)">&#160;&#160;&#160;&#160;$4.90</text><text class="terminal-1147335412-r2" x="658.8" y="483.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-19)">&#160;&#160;&#160;&#160;&#160;&#160;n/a</text><text class="terminal-1147335412-r2" x="805.2" y="483.6" textLength="97.6" clip-path="url(#terminal-1147335412-line-19)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;0</text><text class="terminal-1147335412-r2" x="1366.4" y="483.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-19)">
+</text><text class="terminal-1147335412-r2" x="1366.4" y="508" textLength="12.2" clip-path="url(#terminal-1147335412-line-20)">
+</text><text class="terminal-1147335412-r1" x="12.2" y="532.4" textLength="73.2" clip-path="url(#terminal-1147335412-line-21)">Total&#160;</text><text class="terminal-1147335412-r1" x="122" y="532.4" textLength="61" clip-path="url(#terminal-1147335412-line-21)">&#160;&#160;137</text><text class="terminal-1147335412-r1" x="219.6" y="532.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-21)">$4,043.97</text><text class="terminal-1147335412-r1" x="366" y="532.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-21)">$3,431.79</text><text class="terminal-1147335412-r1" x="512.4" y="532.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-21)">$3,517.12</text><text class="terminal-1147335412-r1" x="658.8" y="532.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-21)">$3,236.28</text><text class="terminal-1147335412-r1" x="805.2" y="532.4" textLength="97.6" clip-path="url(#terminal-1147335412-line-21)">&#160;&#160;&#160;&#160;&#160;&#160;&#160;1</text><text class="terminal-1147335412-r2" x="1366.4" y="532.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-21)">
+</text><text class="terminal-1147335412-r2" x="1366.4" y="556.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-22)">
+</text><text class="terminal-1147335412-r47" x="0" y="581.2" textLength="353.8" clip-path="url(#terminal-1147335412-line-23)">LOWEST&#160;&#160;&#160;&#160;=&#160;Steam&#160;floor&#160;·&#160;now</text><text class="terminal-1147335412-r2" x="1366.4" y="581.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-23)">
+</text><text class="terminal-1147335412-r47" x="0" y="605.6" textLength="646.6" clip-path="url(#terminal-1147335412-line-24)">AVG&#160;&#160;&#160;&#160;&#160;&#160;&#160;=&#160;Skinport&#160;avg&#160;·&#160;7d&#160;(+7&#160;Steam&#160;median&#160;·&#160;24h)</text><text class="terminal-1147335412-r2" x="1366.4" y="605.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-24)">
+</text><text class="terminal-1147335412-r47" x="0" y="630" textLength="1232.2" clip-path="url(#terminal-1147335412-line-25)">Net&#160;Steam&#160;=&#160;wallet&#160;funds&#160;after&#160;Valve&#x27;s&#160;5%&#160;+&#160;game&#160;10%&#160;fees;&#160;Net&#160;cash&#160;=&#160;Skinport&#160;floor&#160;after&#160;its&#160;8%&#160;fee</text><text class="terminal-1147335412-r2" x="1366.4" y="630" textLength="12.2" clip-path="url(#terminal-1147335412-line-25)">
+</text><text class="terminal-1147335412-r47" x="0" y="654.4" textLength="1134.6" clip-path="url(#terminal-1147335412-line-26)">sellable&#160;within&#160;7&#160;days:&#160;33%&#160;of&#160;value&#160;(10%&#160;capture)&#160;·&#160;locked&#160;now:&#160;$1,495.72,&#160;unlocks&#160;in&#160;7&#160;days</text><text class="terminal-1147335412-r2" x="1366.4" y="654.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-26)">
+</text><text class="terminal-1147335412-r47" x="0" y="678.8" textLength="1366.4" clip-path="url(#terminal-1147335412-line-27)">At&#160;each&#160;venue&#x27;s&#160;floor&#160;(coverage):&#160;Steam&#160;Market&#160;$4,043.97&#160;(100%)&#160;·&#160;Skinport&#160;$3,518.37&#160;(100%)&#160;·&#160;Waxpeer&#160;$3,047.17&#160;</text><text class="terminal-1147335412-r2" x="1366.4" y="678.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-27)">
+</text><text class="terminal-1147335412-r47" x="0" y="703.2" textLength="768.6" clip-path="url(#terminal-1147335412-line-28)">(93%)&#160;·&#160;Market.CSGO&#160;$3,088.99&#160;(93%)&#160;·&#160;Lis-skins&#160;$1,772.54&#160;(55%)</text><text class="terminal-1147335412-r2" x="1366.4" y="703.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-28)">
+</text><text class="terminal-1147335412-r47" x="0" y="727.6" textLength="536.8" clip-path="url(#terminal-1147335412-line-29)">Full&#160;comparison:&#160;stashcard&#160;markets&#160;&lt;profile&gt;</text><text class="terminal-1147335412-r2" x="1366.4" y="727.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-29)">
+</text><text class="terminal-1147335412-r2" x="1366.4" y="752" textLength="12.2" clip-path="url(#terminal-1147335412-line-30)">
+</text><text class="terminal-1147335412-r1" x="0" y="776.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-31)">Top&#160;items</text><text class="terminal-1147335412-r2" x="1366.4" y="776.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-31)">
+</text><text class="terminal-1147335412-r2" x="1366.4" y="800.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-32)">
+</text><text class="terminal-1147335412-r1" x="12.2" y="825.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-33)">#</text><text class="terminal-1147335412-r1" x="61" y="825.2" textLength="390.4" clip-path="url(#terminal-1147335412-line-33)">Item&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1147335412-r1" x="488" y="825.2" textLength="36.6" clip-path="url(#terminal-1147335412-line-33)">Qty</text><text class="terminal-1147335412-r1" x="561.2" y="825.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-33)">&#160;&#160;&#160;LOWEST</text><text class="terminal-1147335412-r1" x="707.6" y="825.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-33)">&#160;&#160;&#160;AVG&#160;7d</text><text class="terminal-1147335412-r1" x="854" y="825.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-33)">&#160;&#160;&#160;Median</text><text class="terminal-1147335412-r1" x="1000.4" y="825.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-33)">&#160;&#160;&#160;&#160;Total</text><text class="terminal-1147335412-r1" x="1146.8" y="825.2" textLength="97.6" clip-path="url(#terminal-1147335412-line-33)">Flags&#160;&#160;&#160;</text><text class="terminal-1147335412-r2" x="1366.4" y="825.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-33)">
+</text><text class="terminal-1147335412-r2" x="0" y="849.6" textLength="1256.6" clip-path="url(#terminal-1147335412-line-34)">&#160;─────────────────────────────────────────────────────────────────────────────────────────────────────&#160;</text><text class="terminal-1147335412-r2" x="1366.4" y="849.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-34)">
+</text><text class="terminal-1147335412-r47" x="12.2" y="874" textLength="12.2" clip-path="url(#terminal-1147335412-line-35)">1</text><text class="terminal-1147335412-r2" x="61" y="874" textLength="390.4" clip-path="url(#terminal-1147335412-line-35)">★&#160;Karambit&#160;|&#160;Doppler&#160;(FN)&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1147335412-r2" x="488" y="874" textLength="36.6" clip-path="url(#terminal-1147335412-line-35)">&#160;&#160;1</text><text class="terminal-1147335412-r2" x="561.2" y="874" textLength="109.8" clip-path="url(#terminal-1147335412-line-35)">$1,495.00</text><text class="terminal-1147335412-r2" x="707.6" y="874" textLength="109.8" clip-path="url(#terminal-1147335412-line-35)">$1,311.32</text><text class="terminal-1147335412-r47" x="854" y="874" textLength="109.8" clip-path="url(#terminal-1147335412-line-35)">$1,270.43</text><text class="terminal-1147335412-r1" x="1000.4" y="874" textLength="109.8" clip-path="url(#terminal-1147335412-line-35)">$1,495.00</text><text class="terminal-1147335412-r46" x="1146.8" y="874" textLength="73.2" clip-path="url(#terminal-1147335412-line-35)">locked</text><text class="terminal-1147335412-r2" x="1366.4" y="874" textLength="12.2" clip-path="url(#terminal-1147335412-line-35)">
+</text><text class="terminal-1147335412-r47" x="12.2" y="898.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-36)">2</text><text class="terminal-1147335412-r2" x="61" y="898.4" textLength="390.4" clip-path="url(#terminal-1147335412-line-36)">★&#160;Sport&#160;Gloves&#160;|&#160;Vice&#160;(FT)&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1147335412-r2" x="488" y="898.4" textLength="36.6" clip-path="url(#terminal-1147335412-line-36)">&#160;&#160;1</text><text class="terminal-1147335412-r2" x="561.2" y="898.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-36)">&#160;&#160;$492.51</text><text class="terminal-1147335412-r2" x="707.6" y="898.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-36)">&#160;&#160;$437.64</text><text class="terminal-1147335412-r47" x="854" y="898.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-36)">&#160;&#160;$432.38</text><text class="terminal-1147335412-r1" x="1000.4" y="898.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-36)">&#160;&#160;$492.51</text><text class="terminal-1147335412-r2" x="1366.4" y="898.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-36)">
+</text><text class="terminal-1147335412-r47" x="12.2" y="922.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-37)">3</text><text class="terminal-1147335412-r2" x="61" y="922.8" textLength="390.4" clip-path="url(#terminal-1147335412-line-37)">Sticker&#160;|&#160;Crown&#160;(Foil)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1147335412-r2" x="488" y="922.8" textLength="36.6" clip-path="url(#terminal-1147335412-line-37)">&#160;&#160;1</text><text class="terminal-1147335412-r2" x="561.2" y="922.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-37)">&#160;&#160;$406.02</text><text class="terminal-1147335412-r2" x="707.6" y="922.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-37)">&#160;&#160;$247.67</text><text class="terminal-1147335412-r47" x="854" y="922.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-37)">&#160;&#160;$243.60</text><text class="terminal-1147335412-r1" x="1000.4" y="922.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-37)">&#160;&#160;$406.02</text><text class="terminal-1147335412-r46" x="1146.8" y="922.8" textLength="73.2" clip-path="url(#terminal-1147335412-line-37)">spread</text><text class="terminal-1147335412-r2" x="1366.4" y="922.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-37)">
+</text><text class="terminal-1147335412-r47" x="12.2" y="947.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-38)">4</text><text class="terminal-1147335412-r2" x="61" y="947.2" textLength="390.4" clip-path="url(#terminal-1147335412-line-38)">Dragonclaw&#160;Hook&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1147335412-r2" x="488" y="947.2" textLength="36.6" clip-path="url(#terminal-1147335412-line-38)">&#160;&#160;1</text><text class="terminal-1147335412-r2" x="561.2" y="947.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-38)">&#160;&#160;$374.99</text><text class="terminal-1147335412-r2" x="707.6" y="947.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-38)">&#160;&#160;$345.67</text><text class="terminal-1147335412-r47" x="854" y="947.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-38)">&#160;&#160;$334.82</text><text class="terminal-1147335412-r1" x="1000.4" y="947.2" textLength="109.8" clip-path="url(#terminal-1147335412-line-38)">&#160;&#160;$374.99</text><text class="terminal-1147335412-r46" x="1146.8" y="947.2" textLength="97.6" clip-path="url(#terminal-1147335412-line-38)">illiquid</text><text class="terminal-1147335412-r2" x="1366.4" y="947.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-38)">
+</text><text class="terminal-1147335412-r47" x="12.2" y="971.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-39)">5</text><text class="terminal-1147335412-r2" x="61" y="971.6" textLength="390.4" clip-path="url(#terminal-1147335412-line-39)">M4A1-S&#160;|&#160;Printstream&#160;(MW)&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1147335412-r2" x="488" y="971.6" textLength="36.6" clip-path="url(#terminal-1147335412-line-39)">&#160;&#160;1</text><text class="terminal-1147335412-r2" x="561.2" y="971.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-39)">&#160;&#160;$299.05</text><text class="terminal-1147335412-r2" x="707.6" y="971.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-39)">&#160;&#160;$271.09</text><text class="terminal-1147335412-r47" x="854" y="971.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-39)">&#160;&#160;$265.71</text><text class="terminal-1147335412-r1" x="1000.4" y="971.6" textLength="109.8" clip-path="url(#terminal-1147335412-line-39)">&#160;&#160;$299.05</text><text class="terminal-1147335412-r2" x="1366.4" y="971.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-39)">
+</text><text class="terminal-1147335412-r47" x="12.2" y="996" textLength="12.2" clip-path="url(#terminal-1147335412-line-40)">6</text><text class="terminal-1147335412-r2" x="61" y="996" textLength="390.4" clip-path="url(#terminal-1147335412-line-40)">Unusual&#160;Team&#160;Captain&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1147335412-r2" x="488" y="996" textLength="36.6" clip-path="url(#terminal-1147335412-line-40)">&#160;&#160;1</text><text class="terminal-1147335412-r2" x="561.2" y="996" textLength="109.8" clip-path="url(#terminal-1147335412-line-40)">&#160;&#160;$272.34</text><text class="terminal-1147335412-r2" x="707.6" y="996" textLength="109.8" clip-path="url(#terminal-1147335412-line-40)">&#160;&#160;$155.23</text><text class="terminal-1147335412-r47" x="854" y="996" textLength="109.8" clip-path="url(#terminal-1147335412-line-40)">&#160;&#160;$147.09</text><text class="terminal-1147335412-r1" x="1000.4" y="996" textLength="109.8" clip-path="url(#terminal-1147335412-line-40)">&#160;&#160;$272.34</text><text class="terminal-1147335412-r46" x="1146.8" y="996" textLength="73.2" clip-path="url(#terminal-1147335412-line-40)">spread</text><text class="terminal-1147335412-r2" x="1366.4" y="996" textLength="12.2" clip-path="url(#terminal-1147335412-line-40)">
+</text><text class="terminal-1147335412-r47" x="12.2" y="1020.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-41)">7</text><text class="terminal-1147335412-r2" x="61" y="1020.4" textLength="390.4" clip-path="url(#terminal-1147335412-line-41)">Genuine&#160;Kantusa&#160;the&#160;Script&#160;Sword</text><text class="terminal-1147335412-r2" x="488" y="1020.4" textLength="36.6" clip-path="url(#terminal-1147335412-line-41)">&#160;&#160;1</text><text class="terminal-1147335412-r2" x="561.2" y="1020.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-41)">&#160;&#160;$147.59</text><text class="terminal-1147335412-r2" x="707.6" y="1020.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-41)">&#160;&#160;$145.13</text><text class="terminal-1147335412-r47" x="854" y="1020.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-41)">&#160;&#160;$143.93</text><text class="terminal-1147335412-r1" x="1000.4" y="1020.4" textLength="109.8" clip-path="url(#terminal-1147335412-line-41)">&#160;&#160;$147.59</text><text class="terminal-1147335412-r2" x="1366.4" y="1020.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-41)">
+</text><text class="terminal-1147335412-r47" x="12.2" y="1044.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-42)">8</text><text class="terminal-1147335412-r2" x="61" y="1044.8" textLength="390.4" clip-path="url(#terminal-1147335412-line-42)">AWP&#160;|&#160;Asiimov&#160;(FT)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</text><text class="terminal-1147335412-r2" x="488" y="1044.8" textLength="36.6" clip-path="url(#terminal-1147335412-line-42)">&#160;&#160;1</text><text class="terminal-1147335412-r2" x="561.2" y="1044.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-42)">&#160;&#160;$130.68</text><text class="terminal-1147335412-r2" x="707.6" y="1044.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-42)">&#160;&#160;$125.83</text><text class="terminal-1147335412-r47" x="854" y="1044.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-42)">&#160;&#160;$122.37</text><text class="terminal-1147335412-r1" x="1000.4" y="1044.8" textLength="109.8" clip-path="url(#terminal-1147335412-line-42)">&#160;&#160;$130.68</text><text class="terminal-1147335412-r2" x="1366.4" y="1044.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-42)">
+</text><text class="terminal-1147335412-r2" x="1366.4" y="1069.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-43)">
+</text><text class="terminal-1147335412-r49" x="0" y="1093.6" textLength="24.4" clip-path="url(#terminal-1147335412-line-44)">╭─</text><text class="terminal-1147335412-r47" x="36.6" y="1093.6" textLength="170.8" clip-path="url(#terminal-1147335412-line-44)">honesty&#160;checks</text><text class="terminal-1147335412-r49" x="219.6" y="1093.6" textLength="1122.4" clip-path="url(#terminal-1147335412-line-44)">────────────────────────────────────────────────────────────────────────────────────────────</text><text class="terminal-1147335412-r49" x="1342" y="1093.6" textLength="24.4" clip-path="url(#terminal-1147335412-line-44)">─╮</text><text class="terminal-1147335412-r2" x="1366.4" y="1093.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-44)">
+</text><text class="terminal-1147335412-r49" x="0" y="1118" textLength="12.2" clip-path="url(#terminal-1147335412-line-45)">│</text><text class="terminal-1147335412-r50" x="24.4" y="1118" textLength="24.4" clip-path="url(#terminal-1147335412-line-45)">!&#160;</text><text class="terminal-1147335412-r51" x="48.8" y="1118" textLength="122" clip-path="url(#terminal-1147335412-line-45)">1&#160;unpriced</text><text class="terminal-1147335412-r2" x="170.8" y="1118" textLength="927.2" clip-path="url(#terminal-1147335412-line-45)">&#160;&#160;No&#160;floor&#160;and&#160;no&#160;sales&#160;from&#160;any&#160;source.&#160;Counted&#160;as&#160;unpriced,&#160;never&#160;as&#160;zero.</text><text class="terminal-1147335412-r49" x="1354.2" y="1118" textLength="12.2" clip-path="url(#terminal-1147335412-line-45)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1118" textLength="12.2" clip-path="url(#terminal-1147335412-line-45)">
+</text><text class="terminal-1147335412-r49" x="0" y="1142.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-46)">│</text><text class="terminal-1147335412-r47" x="24.4" y="1142.4" textLength="24.4" clip-path="url(#terminal-1147335412-line-46)">i&#160;</text><text class="terminal-1147335412-r52" x="48.8" y="1142.4" textLength="195.2" clip-path="url(#terminal-1147335412-line-46)">3&#160;not&#160;marketable</text><text class="terminal-1147335412-r47" x="244" y="1142.4" textLength="1098" clip-path="url(#terminal-1147335412-line-46)">&#160;&#160;3,414&#160;item(s)&#160;cannot&#160;be&#160;sold&#160;on&#160;the&#160;market&#160;(medals,&#160;coins,&#160;gems).&#160;Listed&#160;separately,&#160;not</text><text class="terminal-1147335412-r49" x="1354.2" y="1142.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-46)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1142.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-46)">
+</text><text class="terminal-1147335412-r49" x="0" y="1166.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-47)">│</text><text class="terminal-1147335412-r47" x="24.4" y="1166.8" textLength="85.4" clip-path="url(#terminal-1147335412-line-47)">valued.</text><text class="terminal-1147335412-r49" x="1354.2" y="1166.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-47)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1166.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-47)">
+</text><text class="terminal-1147335412-r49" x="0" y="1191.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-48)">│</text><text class="terminal-1147335412-r46" x="24.4" y="1191.2" textLength="24.4" clip-path="url(#terminal-1147335412-line-48)">!&#160;</text><text class="terminal-1147335412-r53" x="48.8" y="1191.2" textLength="122" clip-path="url(#terminal-1147335412-line-48)">2&#160;illiquid</text><text class="terminal-1147335412-r2" x="170.8" y="1191.2" textLength="1122.4" clip-path="url(#terminal-1147335412-line-48)">&#160;&#160;You&#160;hold&#160;more&#160;than&#160;one&#160;day&#160;of&#160;sales:&#160;Dragonclaw&#160;Hook&#160;x1&#160;vs&#160;0.0/day&#160;(no&#160;recent&#160;sales);&#160;IDF&#160;</text><text class="terminal-1147335412-r49" x="1354.2" y="1191.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-48)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1191.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-48)">
+</text><text class="terminal-1147335412-r49" x="0" y="1215.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-49)">│</text><text class="terminal-1147335412-r2" x="24.4" y="1215.6" textLength="475.8" clip-path="url(#terminal-1147335412-line-49)">(Foil)&#160;x6&#160;vs&#160;3.0/day&#160;(~20&#160;days&#160;to&#160;sell)</text><text class="terminal-1147335412-r49" x="1354.2" y="1215.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-49)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1215.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-49)">
+</text><text class="terminal-1147335412-r49" x="0" y="1240" textLength="12.2" clip-path="url(#terminal-1147335412-line-50)">│</text><text class="terminal-1147335412-r46" x="24.4" y="1240" textLength="24.4" clip-path="url(#terminal-1147335412-line-50)">!&#160;</text><text class="terminal-1147335412-r53" x="48.8" y="1240" textLength="97.6" clip-path="url(#terminal-1147335412-line-50)">1&#160;skewed</text><text class="terminal-1147335412-r2" x="146.4" y="1240" textLength="1159" clip-path="url(#terminal-1147335412-line-50)">&#160;&#160;AVG&#160;pulled&#160;by&#160;outlier&#160;sales&#160;(mean&#160;vs&#160;median&#160;&gt;&#160;25&#160;%&#160;or&#160;max&#160;&gt;&#160;5x&#160;median):&#160;AK-47&#160;|&#160;Redline&#160;(FT)&#160;</text><text class="terminal-1147335412-r49" x="1354.2" y="1240" textLength="12.2" clip-path="url(#terminal-1147335412-line-50)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1240" textLength="12.2" clip-path="url(#terminal-1147335412-line-50)">
+</text><text class="terminal-1147335412-r49" x="0" y="1264.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-51)">│</text><text class="terminal-1147335412-r2" x="24.4" y="1264.4" textLength="500.2" clip-path="url(#terminal-1147335412-line-51)">mean&#160;$28.88&#160;vs&#160;median&#160;$22.98,&#160;max&#160;$195.00</text><text class="terminal-1147335412-r49" x="1354.2" y="1264.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-51)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1264.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-51)">
+</text><text class="terminal-1147335412-r49" x="0" y="1288.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-52)">│</text><text class="terminal-1147335412-r46" x="24.4" y="1288.8" textLength="24.4" clip-path="url(#terminal-1147335412-line-52)">!&#160;</text><text class="terminal-1147335412-r53" x="48.8" y="1288.8" textLength="158.6" clip-path="url(#terminal-1147335412-line-52)">2&#160;wide&#160;spread</text><text class="terminal-1147335412-r2" x="207.4" y="1288.8" textLength="1073.6" clip-path="url(#terminal-1147335412-line-52)">&#160;&#160;Floor&#160;and&#160;average&#160;disagree&#160;by&#160;more&#160;than&#160;50%:&#160;Sticker&#160;|&#160;Crown&#160;(Foil)&#160;64%;&#160;Unusual&#160;Team&#160;</text><text class="terminal-1147335412-r49" x="1354.2" y="1288.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-52)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1288.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-52)">
+</text><text class="terminal-1147335412-r49" x="0" y="1313.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-53)">│</text><text class="terminal-1147335412-r2" x="24.4" y="1313.2" textLength="134.2" clip-path="url(#terminal-1147335412-line-53)">Captain&#160;75%</text><text class="terminal-1147335412-r49" x="1354.2" y="1313.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-53)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1313.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-53)">
+</text><text class="terminal-1147335412-r49" x="0" y="1337.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-54)">│</text><text class="terminal-1147335412-r46" x="24.4" y="1337.6" textLength="24.4" clip-path="url(#terminal-1147335412-line-54)">!&#160;</text><text class="terminal-1147335412-r53" x="48.8" y="1337.6" textLength="97.6" clip-path="url(#terminal-1147335412-line-54)">2&#160;locked</text><text class="terminal-1147335412-r2" x="146.4" y="1337.6" textLength="1134.6" clip-path="url(#terminal-1147335412-line-54)">&#160;&#160;Trade-locked&#160;now:&#160;$1,495.72.&#160;★&#160;Karambit&#160;|&#160;Doppler&#160;(FN)&#160;x1&#160;unlocks&#160;in&#160;6&#160;d;&#160;Kilowatt&#160;Case&#160;x6&#160;</text><text class="terminal-1147335412-r49" x="1354.2" y="1337.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-54)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1337.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-54)">
+</text><text class="terminal-1147335412-r49" x="0" y="1362" textLength="12.2" clip-path="url(#terminal-1147335412-line-55)">│</text><text class="terminal-1147335412-r2" x="24.4" y="1362" textLength="170.8" clip-path="url(#terminal-1147335412-line-55)">unlocks&#160;in&#160;7&#160;d</text><text class="terminal-1147335412-r49" x="1354.2" y="1362" textLength="12.2" clip-path="url(#terminal-1147335412-line-55)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1362" textLength="12.2" clip-path="url(#terminal-1147335412-line-55)">
+</text><text class="terminal-1147335412-r49" x="0" y="1386.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-56)">│</text><text class="terminal-1147335412-r47" x="24.4" y="1386.4" textLength="24.4" clip-path="url(#terminal-1147335412-line-56)">i&#160;</text><text class="terminal-1147335412-r52" x="48.8" y="1386.4" textLength="170.8" clip-path="url(#terminal-1147335412-line-56)">7&#160;AVG&#160;fallback</text><text class="terminal-1147335412-r47" x="219.6" y="1386.4" textLength="1061.4" clip-path="url(#terminal-1147335412-line-56)">&#160;&#160;No&#160;7d&#160;sales&#160;average&#160;from&#160;the&#160;primary&#160;source;&#160;using&#160;Steam&#160;median&#160;·&#160;24h&#160;for&#160;7&#160;item(s).&#160;</text><text class="terminal-1147335412-r49" x="1354.2" y="1386.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-56)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1386.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-56)">
+</text><text class="terminal-1147335412-r49" x="0" y="1410.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-57)">│</text><text class="terminal-1147335412-r47" x="24.4" y="1410.8" textLength="268.4" clip-path="url(#terminal-1147335412-line-57)">Labelled&#160;on&#160;every&#160;row.</text><text class="terminal-1147335412-r49" x="1354.2" y="1410.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-57)">│</text><text class="terminal-1147335412-r2" x="1366.4" y="1410.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-57)">
+</text><text class="terminal-1147335412-r49" x="0" y="1435.2" textLength="1366.4" clip-path="url(#terminal-1147335412-line-58)">╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────╯</text><text class="terminal-1147335412-r2" x="1366.4" y="1435.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-58)">
+</text><text class="terminal-1147335412-r1" x="0" y="1459.6" textLength="524.6" clip-path="url(#terminal-1147335412-line-59)">Since&#160;last&#160;scan&#160;(2026-09-29,&#160;30&#160;days&#160;ago):&#160;</text><text class="terminal-1147335412-r48" x="524.6" y="1459.6" textLength="317.2" clip-path="url(#terminal-1147335412-line-59)">+$327.68&#160;(+8.8%)&#160;at&#160;LOWEST</text><text class="terminal-1147335412-r47" x="841.8" y="1459.6" textLength="207.4" clip-path="url(#terminal-1147335412-line-59)">,&#160;+$237.68&#160;at&#160;AVG</text><text class="terminal-1147335412-r2" x="1366.4" y="1459.6" textLength="12.2" clip-path="url(#terminal-1147335412-line-59)">
+</text><text class="terminal-1147335412-r48" x="0" y="1484" textLength="427" clip-path="url(#terminal-1147335412-line-60)">&#160;&#160;+&#160;Sticker&#160;|&#160;Crown&#160;(Foil)&#160;&#160;+$56.44</text><text class="terminal-1147335412-r2" x="1366.4" y="1484" textLength="12.2" clip-path="url(#terminal-1147335412-line-60)">
+</text><text class="terminal-1147335412-r50" x="0" y="1508.4" textLength="475.8" clip-path="url(#terminal-1147335412-line-61)">&#160;&#160;-&#160;★&#160;Sport&#160;Gloves&#160;|&#160;Vice&#160;(FT)&#160;&#160;-$41.37</text><text class="terminal-1147335412-r2" x="1366.4" y="1508.4" textLength="12.2" clip-path="url(#terminal-1147335412-line-61)">
+</text><text class="terminal-1147335412-r50" x="0" y="1532.8" textLength="402.6" clip-path="url(#terminal-1147335412-line-62)">&#160;&#160;-&#160;Unusual&#160;Team&#160;Captain&#160;&#160;-$32.68</text><text class="terminal-1147335412-r2" x="1366.4" y="1532.8" textLength="12.2" clip-path="url(#terminal-1147335412-line-62)">
+</text><text class="terminal-1147335412-r47" x="0" y="1557.2" textLength="646.6" clip-path="url(#terminal-1147335412-line-63)">saved&#160;stashcard-demo-summary.png&#160;&#160;(+&#160;.json,&#160;.alt.txt)</text><text class="terminal-1147335412-r2" x="1366.4" y="1557.2" textLength="12.2" clip-path="url(#terminal-1147335412-line-63)">
+</text>
+    </g>
+    </g>
+</svg>
