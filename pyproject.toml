@@ -1,0 +1,57 @@
+[build-system]
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[project]
+name = "stashcard"
+version = "1.0.0"
+description = "Value a Steam account and inventory from the terminal, then print it as a shareable report card."
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "AssassinCreator" }]
+requires-python = ">=3.11"
+keywords = ["steam", "inventory", "cs2", "dota2", "tf2", "cli", "pillow", "rich", "report-card"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Environment :: Console",
+  "Intended Audience :: End Users/Desktop",
+  "Operating System :: OS Independent",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Games/Entertainment",
+  "Topic :: Multimedia :: Graphics",
+]
+dependencies = [
+  "httpx>=0.27",
+  "brotli>=1.1",
+  "rich>=13.7",
+  "questionary>=2.0",
+  "Pillow>=10.3",
+  "platformdirs>=4.2",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+# Only for regenerating the README GIFs (scripts/make_gifs.py). Never needed at runtime.
+gifs = ["pyte>=0.8.2", "pexpect>=4.9"]
+
+[project.scripts]
+stashcard = "stashcard.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/AssassinCreator/steam-account-value-checker"
+Issues = "https://github.com/AssassinCreator/steam-account-value-checker/issues"
+Changelog = "https://github.com/AssassinCreator/steam-account-value-checker/blob/main/CHANGELOG.md"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/stashcard"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/stashcard", "tests", "README.md", "LICENSE", "CHANGELOG.md"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

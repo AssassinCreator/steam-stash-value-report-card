@@ -1,0 +1,41 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    env:
+      PYTHONIOENCODING: utf-8
+    runs-on: windows-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install -e ".[dev]"
+
+      - name: Run tests
+        run: python -m pytest -q
+        env:
+          ALLOW_UNSUPPORTED_OS: "1"
+
+      - name: Demo render (offline)
+        shell: bash
+        env:
+          STASHCARD_HOME: ${{ runner.temp }}/stashcard-home
+        run: |
+          stashcard demo --mode all --out-dir out --offline --no-preview --plain
+          stashcard value demo --offline --plain --json out/value.json --csv out/value.csv

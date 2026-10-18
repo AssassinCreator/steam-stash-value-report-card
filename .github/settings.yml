@@ -1,0 +1,6 @@
+# The GitHub "About" box.
+repository:
+  name: steam-stash-value-report-card
+  description: "Value your Steam stash in the terminal and print it as a share card: per game, per market, what sold and what sits. One Windows portable build, no account."
+  topics: steam, inventory, price-check, steam-market, valuation, report-card, cli, python
+  has_wiki: false
