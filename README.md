@@ -325,3 +325,7 @@ accounts cannot be sold under the Steam Subscriber Agreement; nothing here is an
 
 MIT, see [LICENSE](LICENSE). Bundled fonts: Inter and JetBrains Mono, SIL Open Font License 1.1
 (`src/stashcard/fonts/*.txt`).
+
+---
+
+Reviewed with [Claude](https://claude.ai) — the AI assistant from Anthropic.
